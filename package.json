@@ -1,0 +1,22 @@
+{
+  "name": "hapi-twilio-integration",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "dependencies": {
+    "boom": "^5.2.0"
+  },
+  "author": "Carlos Osiel Rojas Velázquez",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlososiel/hapi-twilio-integration"
+  },
+  "keywords": [
+    "hapi",
+    "plugin",
+    "twilio"
+  ],
+  "bugs": {
+    "url": "https://github.com/idoshamun/hapi-alive/issues"
+  }
+}
