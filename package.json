@@ -1,9 +1,10 @@
 {
-  "name": "hapi-twilio-integration",
-  "version": "0.0.1",
+  "name": "@samsystems/hapi-twilio-integration",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "dependencies": {
-    "boom": "^5.2.0"
+    "boom": "^5.2.0",
+    "twilio": "^2.11.1"
   },
   "author": "Carlos Osiel Rojas Velázquez",
   "license": "MIT",
