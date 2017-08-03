@@ -3,7 +3,7 @@ A plugin to integrate twilio into HAPIJS
 
 Installation
 ------------
-`npm install hapi-twilio-integration`
+`npm install @samsystems/hapi-twilio-integration`
 
 Basic Setup
 -------------
@@ -20,7 +20,7 @@ When you register a plugin in manifest you need setup previous options like:
 
     plugin:  {
 
-        register: 'hapi-twilio-integration',                
+        register: '@samsystems/hapi-twilio-integration',                
         options: {
             accountSid: 'valid accountSid',
             authToken: 'valid authToken',
