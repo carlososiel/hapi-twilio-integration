@@ -1,6 +1,6 @@
 {
   "name": "@samsystems/hapi-twilio-integration",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "lib/index.js",
   "dependencies": {
     "boom": "^5.2.0",
